@@ -1,0 +1,6 @@
+{
+  "name": "St. Mary's Premier Health",
+  "description": "Multi-speciality hospital website for exploring clinical departments, specialist profiles, real-time appointment booking, emergency care, and hospital announcements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
